@@ -1,28 +1,3 @@
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.419 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Mon Feb 28 2022 18:20:39 GMT-0800 (PST)
-* Source doc: Mod Rules
------>
-
-
-
 ## Mod Rules   
 
 Please run on vanilla if you do not need a mod to improve your game performance. Any mods not listed below are banned.
