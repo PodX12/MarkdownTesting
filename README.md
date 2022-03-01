@@ -60,7 +60,7 @@ Please run on vanilla if you do not need a mod to improve your game performance.
 * TabFocus[Mod Versions/s: [2.0.2](https://github.com/RedLime/TabFocus/releases/tag/2.0.2)] (Minecraft Version/s: 1.7, 1.8)
 
 
-#### Accessibility Mods \
+#### Accessibility Mods
 
 
 You may utilize these mods in versions if you tell us about a medical condition that makes it necessary in advance.
